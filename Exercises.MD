@@ -11,6 +11,7 @@ Pod QOS --> https://kubernetes.io/docs/tasks/configure-pod-container/quality-ser
 Resource Quotas for namespace --> https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/quota-memory-cpu-namespace/ <br>
 
 Volumes --> https://github.com/rchidana/Kubernetes/tree/master/Volumes <br>
+PVC --> https://kubernetes.io/docs/tasks/configure-pod-container/configure-persistent-volume-storage/ <br>
 Injecting data into Applications --> https://kubernetes.io/docs/tasks/inject-data-application/ <br>
 
 
